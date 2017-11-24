@@ -1,6 +1,6 @@
 # fairylight2.0
-[![Build Status](https://travis-ci.org/alectronic0/FizzBuzz.svg?branch=master)](https://travis-ci.org/alectronic0/fairylight2.0)
-
+[![Build Status](https://travis-ci.org/alectronic0/fairylight2.0.svg?branch=master)](https://travis-ci.org/alectronic0/fairylight2.0)
+[![codecov](https://codecov.io/gh/alectronic0/fairylight2.0/branch/master/graph/badge.svg)](https://codecov.io/gh/alectronic0/fairylight2.0)
 ## intro
 
 ## Quickstart
